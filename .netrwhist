@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/cheezewizz/.config/nvim'
+let g:netrw_dirhist_7='/home/cheezewizz/.config/nvim/lua'
+let g:netrw_dirhist_6='/home/cheezewizz/.config/nvim/lua/cheezewizz'
+let g:netrw_dirhist_5='/home/cheezewizz/.config/nvim/lua/cheezewizz/plugins'
+let g:netrw_dirhist_4='/home/cheezewizz/.config/nvim/lua/cheezewizz'
+let g:netrw_dirhist_3='/home/cheezewizz/.config/nvim'
+let g:netrw_dirhist_2='/home/cheezewizz/.config/nvim/lua'
+let g:netrw_dirhist_1='/home/cheezewizz/.config/nvim/lua/cheezewizz'
+let g:netrw_dirhist_0='/home/cheezewizz/.config/nvim/lua'
+let g:netrw_dirhist_9='/home/cheezewizz/.config/nvim'
